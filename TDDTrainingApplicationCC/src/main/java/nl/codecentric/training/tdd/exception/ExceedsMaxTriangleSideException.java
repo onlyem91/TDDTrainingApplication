@@ -8,6 +8,6 @@ package nl.codecentric.training.tdd.exception;
  */
 public class ExceedsMaxTriangleSideException extends IllegalArgumentException {
     public ExceedsMaxTriangleSideException(String message) {
-        super(message);
+        super(message); // hallo dit is mijn comment
     }
 }
