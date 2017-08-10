@@ -7,6 +7,6 @@ package nl.codecentric.training.tdd.exception;
  */
 public class IncorrectTriangleSidesException extends IllegalStateException {
     public IncorrectTriangleSidesException(String message) {
-        super(message);
+        super(message); // hallo dit is mijn tweede comment
     }
 }
